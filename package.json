@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://maliqpotter09.github.io/test",
+  "homepage": "https://maliqpotter09.github.io/test",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
